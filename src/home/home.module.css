@@ -1,0 +1,21 @@
+
+.users
+    {background-color: rgb(144, 132, 144);
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    color: #a39b9b;
+
+}
+
+
+.box{
+    background-color: #897e7e;
+    color: rebeccapurple;
+    padding: 4rem;
+    border-radius: 4rem;
+    margin: 1rem;
+    align-items: center;
+    box-shadow: 1px 3px 1px;
+}
